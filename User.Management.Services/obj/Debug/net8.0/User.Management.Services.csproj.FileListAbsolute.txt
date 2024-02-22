@@ -1,0 +1,12 @@
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\bin\Debug\net8.0\User.Management.Services.deps.json
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\bin\Debug\net8.0\User.Management.Services.dll
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\bin\Debug\net8.0\User.Management.Services.pdb
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\User.Management.Services.csproj.AssemblyReference.cache
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\User.Management.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\User.Management.Services.AssemblyInfoInputs.cache
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\User.Management.Services.AssemblyInfo.cs
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\User.Management.Services.csproj.CoreCompileInputs.cache
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\User.Management.Services.dll
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\refint\User.Management.Services.dll
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\User.Management.Services.pdb
+D:\_Sciqus\sqlserver\VendorPortal.API\User.Management.Services\obj\Debug\net8.0\ref\User.Management.Services.dll
